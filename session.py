@@ -36,7 +36,7 @@ def login(user,password):
     
     else:
         if user in users.keys():
-            if password in users.values():
+            if users[user] == password :
                 print(f"\n Bienvenido {user}!!!!!!")
                 return True
             else:
