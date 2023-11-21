@@ -1,6 +1,6 @@
 # PRESENTACION
 
-Proyecto de CoderHouse primerara preentrega
+Proyecto de CoderHouse Primera Preentrega
 
 # DESCRIPCION
 
@@ -10,4 +10,4 @@ Simular login y registro de usuarios y mostrar la información de los mismos en 
 
 - [@DarielCano](https://www.github.com/DarieCano)
 
-[@cv](https://drive.google.com/file/d/1tTkd27bLXFh6M9vCI3uco_lMszwkZcl6/view?usp=share_link)
+-[@cv](https://drive.google.com/file/d/1tTkd27bLXFh6M9vCI3uco_lMszwkZcl6/view?usp=share_link)
