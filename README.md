@@ -1,6 +1,6 @@
 # PRESENTACION
 
-Proyecto de CoderHouse Primera Preentrega, Segunda Prenetrega
+Proyecto de CoderHouse Primera Preentrega, Segunda Preentrega
 
 # DESCRIPCION
 
